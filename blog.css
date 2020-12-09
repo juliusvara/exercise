@@ -1,0 +1,32 @@
+body {
+	border: 10px solid #0054a3;
+	padding: 20px;
+	width: 50%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	color: #22c1f0;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+p {
+	font-family: Beth ellen;
+}
+
+#firstp {
+	border-bottom: 2px solid #11a0f0;
+	
+}
+.secondp {
+	border-left: 10px solid #0054a3;
+	align
+}
+
+h2 {
+	font-family: indie flower;
+	color: #f1030a;
+}
